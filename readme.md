@@ -1,6 +1,7 @@
 
 # Práctica: Tu Propio ChatGPT Local con Docker 🐳 + IA 🤖
 
+<img src="image.png" width="600px"></img>
 ## 🎯 Objetivo
 
 En esta práctica vamos a desmitificar la Inteligencia Artificial. Dejaremos de verla como una "magia" que ocurre en servidores de empresas externas y la convertiremos en una pieza más de nuestro stack tecnológico.
